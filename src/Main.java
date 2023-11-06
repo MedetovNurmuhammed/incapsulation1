@@ -29,6 +29,8 @@ public class Main {
         for (int i1 = 0; i1 < stud.length; i1++) {
             stud[i1].resuniver();
 
+
+
         } Scanner scanner = new Scanner(System.in);
         Scanner scanner1 = new Scanner(System.in);
         School school1 = new School();
